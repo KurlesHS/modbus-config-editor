@@ -1,0 +1,47 @@
+# C++ objects and libs
+
+# MSVC
+
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+build
+app
+bin
+
+# Qt-es
+*.[Dd]ebug
+*.[Rr]elease
+
+.qmake.cache
+.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+
+# QtCreator
+
+*.autosave
+
+#QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
